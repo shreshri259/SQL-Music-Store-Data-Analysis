@@ -8,7 +8,13 @@ This project invloves analysing the data of a fictional music store using SQL.
 - Install the latest version of PostgreSQL and pgAdmin 4 on your computer.
 - Download the music store data SQL file (Music_Store_database.sql) from this repository and import it into your SQL server database.
 
+## Database Schema
+
+![Music Database Schema](https://raw.github.com/shreshri259/SQL-Music-Store-Data-Analysis/main/MusicDatabaseSchema.png)
+
 ## Data Analysis using SQL
+
+![Questions](https://raw.github.com/shreshri259/SQL-Music-Store-Data-Analysis/main/Questions.png)
 
 1. Senior most employee based on job title
 
