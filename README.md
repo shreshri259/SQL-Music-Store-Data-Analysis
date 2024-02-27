@@ -171,10 +171,6 @@ WITH Customer_with_country AS
 SELECT * FROM Customer_with_country WHERE RowNo <= 1
 ```
 
-## Acknowledgements
-
-- [Rishabh Mishra - YouTube](https://www.youtube.com/@RishabhMishraOfficial)
-- [SQL Data Analytics Portfolio Project](https://www.youtube.com/watch?v=VFIuIjswMKM)
 
 ### Disclaimer
 
